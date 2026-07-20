@@ -1,2 +1,9 @@
 # Projects
-This repository showcases a variety of small projects created while learning web development and programming. Each project focuses on implementing core concepts, improving coding skills, and building real-world applications using modern technologies.
+
+This repository contains a collection of beginner-friendly projects built while learning programming and software development. Each project focuses on strengthening core concepts, improving problem-solving skills, and gaining hands-on experience with real-world applications.
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| QR Code Generator | Generate QR codes from any URL and save them as PNG images using Python. |
