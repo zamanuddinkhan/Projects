@@ -4,6 +4,6 @@ This repository contains a collection of beginner-friendly projects built while 
 
 ## Projects
 
-| Project | Description |
-|---------|-------------|
-| QR Code Generator | Generate QR codes from any URL and save them as PNG images using Python. |
+| No. | Project | Description |
+|:---:|---------|-------------|
+| 1 | QR Code Generator | Generate QR codes from any URL and save them as PNG images using Python. |
